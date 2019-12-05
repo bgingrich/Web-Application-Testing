@@ -16,11 +16,12 @@ body {
 
 div {
   background: gold;
-  width: 50%;
+  width: 60%;
   margin: auto;
   padding: 1px;
   margin-top: 80px;
   margin-bottom: 80px;
+  border-radius: 30px;
 }
 
 button {
@@ -31,5 +32,6 @@ button {
   font-size: 30px;
   font-weight: bold;
   width: 30%;
-  border: 2px solid
+  border: 2px solid;
+  border-radius: 15px;
 }
